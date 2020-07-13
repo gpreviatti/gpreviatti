@@ -10,4 +10,5 @@
 
 - 🌎 I'm living in Valinhos
 
-- Please check my personal projects below if you want know more what I'm currently doing
+
+Please, check my personal projects below if you want know more what I'm currently doing
