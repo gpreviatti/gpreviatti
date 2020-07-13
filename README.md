@@ -6,9 +6,8 @@
 
 - 🌱 I’m currently learning more about PHP and Laravel but also I'm learning some javascript frontend fremeworks like VueJs and ReactJs
 
-- 💬 I'm graduated in Computer Science at Universidade Paulista in 2018 
+- 🎓 I'm graduated in Computer Science at Universidade Paulista in 2018 
 
-- 📫 I'm living in Valinhos
+- 🌎 I'm living in Valinhos
 
-- ⚡ In my free time I like to run and make exercices and also learning new things about techonolgy and finnaces
-
+- Please check my personal projects below if you want know more what I'm currently doing
