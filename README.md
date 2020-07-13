@@ -10,6 +10,6 @@
 
 - 🌎 I'm living in Valinhos
 
-Please, check my personal projects below if you want know more what I'm currently doing
+Please, check my personal projects below if you want know more what I'm currently doing or my social medias if you want contact to me 🍀
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/giovanni-b-previatti-32227011a)
