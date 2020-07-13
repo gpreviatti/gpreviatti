@@ -2,7 +2,7 @@
 
 - 👨‍💻 My name is Giovanni
 
-- 🔭 I’m currently working on Agv Logistica in Vinhedo, since 2019 as a Web software developer
+- 🔭 I’m currently working on Agv Logistica in Vinhedo, since 2019 as a software developer
 
 - 🌱 I’m currently learning more about PHP and Laravel but also I'm learning some javascript frontend fremeworks like VueJs and ReactJs
 
