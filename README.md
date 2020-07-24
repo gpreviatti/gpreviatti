@@ -4,6 +4,8 @@ Email: gpreviatt@gmail.com ✉️
 
 Age: 24 years old ⌛
 
+From: Brazil, Valinhos 🌎
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/giovanni-b-previatti-32227011a)
 
 # Professional Information 👨‍💻
