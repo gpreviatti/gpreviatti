@@ -1,4 +1,4 @@
-# Personal information 👨‍💻
+# Personal information 👨
 
 Full name: Giovanni Brunno Previatti
 
@@ -8,7 +8,7 @@ Age: 24 years old
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/giovanni-b-previatti-32227011a)
 
-# Professional Information
+# Professional Information 👨‍💻
 
 ## Skills
 
@@ -32,9 +32,9 @@ Mysql, MSSql, PostgresSql and Oracle
 
 ### Company: AGV Health and Nutrition
 
-### Time: October 2018 until current
-
-### Role: Web Developer
+ Time: October 2018 until current
+ 
+ Role: Web Developer
 
 ### Technology and Tools:
 
@@ -48,9 +48,9 @@ Mysql, MSSql, PostgresSql and Oracle
 
 ### Company: DATASAFER
 
-### Role: Web Developer
+Role: Web Developer
 
-### Time: October 2018 until June 2019
+Time: October 2018 until June 2019
 
 ### Technology and Tools:
 
