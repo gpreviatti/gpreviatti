@@ -28,11 +28,11 @@ Github, GitLab and Bitbucket
 ### Database
 Mysql, MSSql, PostgresSql and Oracle
 
-# Jobs and companies
+# Jobs and Companies
 
 ### Company: AGV Health and Nutrition
 
- Time: October 2018 until current
+ Time: October 2018 until now
  
  Role: Web Developer
 
