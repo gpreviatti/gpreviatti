@@ -30,7 +30,7 @@ Mysql, MSSql, PostgresSql and Oracle
 
 ## Jobs and Companies
 
-### Company: AGV Health and Nutrition
+### Company: AGV Health and Nutrition 🚚
 
  Time: October 2018 until now
  
@@ -46,7 +46,7 @@ Mysql, MSSql, PostgresSql and Oracle
 
 ---
 
-### Company: DATASAFER
+### Company: DataSafer 🔒
 
 Role: Web Developer
 
