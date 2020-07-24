@@ -1,10 +1,8 @@
 # Personal information 👨
 
-Full name: Giovanni Brunno Previatti
+Email: gpreviatt@gmail.com ✉️
 
-Email: gpreviatt@gmail.com
-
-Age: 24 years old
+Age: 24 years old ⌛
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/giovanni-b-previatti-32227011a)
 
