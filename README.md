@@ -28,7 +28,7 @@ Github, GitLab and Bitbucket
 ### Database
 Mysql, MSSql, PostgresSql and Oracle
 
-# Jobs and Companies
+## Jobs and Companies
 
 ### Company: AGV Health and Nutrition
 
