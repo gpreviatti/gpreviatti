@@ -32,9 +32,9 @@ Mysql, MSSql, PostgresSql and Oracle
 
 ### Company: AGV Health and Nutrition 🚚
 
- Time: October 2018 until now
- 
  Role: Web Developer
+
+ Time: October 2018 until now
 
 ### Technology and Tools:
 
