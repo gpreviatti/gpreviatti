@@ -7,7 +7,9 @@ Email: gpreviatt@gmail.com ✉️
 
 # Skills 👨‍💻
 
-<img title="" src="./IT-Infrastructure.png" alt="it" width="352" data-align="left">
+
+<img title="" src="./IT-Infrastructure.png" alt="" width="352" data-align="left">
+
 
 ### Frontend
 
