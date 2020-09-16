@@ -7,13 +7,9 @@ Email: gpreviatt@gmail.com ✉️
 
 # Skills 👨‍💻
 
-
-<img title="" src="./IT-Infrastructure.png" alt="" width="352" data-align="left">
-
-
 ### Frontend
 
-Html5/CSS3/Javascript
+HTML5/CSS3/Javascript
 
 Fremeworks and Libs: VueJs, Jquery and ReactJs
 
@@ -21,7 +17,7 @@ Fremeworks and Libs: VueJs, Jquery and ReactJs
 
 Programming Languages: PHP and JavaScript
 
-Frameworks and Libs: Laravel, AdonisJS and ExpressJS
+Frameworks and Libs: Laravel, ExpressJS
 
 ### Versioning
 
