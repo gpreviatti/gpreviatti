@@ -6,7 +6,7 @@ Email: gpreviatt@gmail.com ✉️
 
 # Professional Information 👨‍💻
 
-<img title="" src="file:///home/giovanni/Downloads/IT-Infrastructure.png" alt="" width="352" data-align="left">
+<img title="" src="./IT-Infrastructure.png" alt="" width="352" data-align="left">
 
 ## Skills
 
