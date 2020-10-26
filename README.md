@@ -11,13 +11,13 @@ Email: gpreviatt@gmail.com ✉️
 
 HTML5/CSS3/Javascript
 
-Fremeworks and Libs: VueJs, Jquery and ReactJs
+Fremeworks and Libs: VueJs and Jquery
 
 ### Backend
 
 Programming Languages: PHP and JavaScript
 
-Frameworks and Libs: Laravel, ExpressJS
+Frameworks and Libs: Laravel, Codeigniter, AdonisJs
 
 ### Versioning
 
@@ -25,4 +25,4 @@ Github, GitLab and Bitbucket
 
 ### Database
 
-Mysql, MSSql, PostgresSql and Oracle
+Mysql, MSSQL, Postgres and Oracle
