@@ -20,7 +20,7 @@ My name name is Giovanni Brunno Previatti.
 #### Backend
 
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/-CSHARP-blue?style=flat-square&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/-CSharp-blue?style=flat-square&logo=.net&logoColor=white)
 ![Node](https://img.shields.io/badge/-Node-green?style=flat-square&logo=node&logoColor=white)
 
 #### Database
