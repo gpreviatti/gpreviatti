@@ -21,9 +21,7 @@ My name name is Giovanni Brunno Previatti.
 
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/-CSHARP-blue?style=flat-square&logo=.net&logoColor=white)
-![Java](https://img.shields.io/badge/-java-blue?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-python-green?style=flat-square&logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-orange?style=flat-square&logo=Laravel&logoColor=white)
+![Node](https://img.shields.io/badge/-Node-green?style=flat-square&logo=node&logoColor=white)
 
 #### Database
 
