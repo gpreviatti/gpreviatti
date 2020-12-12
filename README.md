@@ -4,25 +4,17 @@ Email: gpreviatt@gmail.com ✉️
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/giovanni-b-previatti-32227011a)
 
+#### Techs
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
+![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 
-# Skills 👨‍💻
+# States
 
-### Frontend
+![github stats](https://github-readme-stats.vercel.app/api?username=gpreviatti&show_icons=true)
 
-HTML5/CSS3/Javascript
-
-Fremeworks and Libs: VueJs and Jquery
-
-### Backend
-
-Programming Languages: PHP and JavaScript
-
-Frameworks and Libs: Laravel, Codeigniter, AdonisJs
-
-### Versioning
-
-Github, GitLab and Bitbucket
-
-### Database
-
-Mysql, MSSQL, Postgres and Oracle
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpreviatti&layout=compact)](https://github.com/gpreviatti/github-readme-stats)
