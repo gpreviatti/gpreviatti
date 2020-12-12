@@ -12,7 +12,7 @@ My name name is Giovanni Brunno Previatti.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![Jquery](https://img.shields.io/badge/-jquery-blue?style=flat-square&logo=jquery&logoColor=fff)
 ![Vuejs](https://img.shields.io/badge/-Vue-green?style=flat-square&logoColor=fff)
 ![Angular](https://img.shields.io/badge/-angular-red?style=flat-square&logo=angular&logoColor=fff)
