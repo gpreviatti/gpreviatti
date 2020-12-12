@@ -14,7 +14,7 @@ My name name is Giovanni Brunno Previatti.
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
 ![Jquery](https://img.shields.io/badge/-jquery-blue?style=flat-square&logo=jquery&logoColor=fff)
-![Vuejs](https://img.shields.io/badge/-Vue-green?style=flat-square&logo=vue&logoColor=fff)
+![Vuejs](https://img.shields.io/badge/-Vue-green?style=flat-square&logoColor=fff)
 ![Angular](https://img.shields.io/badge/-angular-red?style=flat-square&logo=angular&logoColor=fff)
 
 #### Backend
@@ -24,6 +24,12 @@ My name name is Giovanni Brunno Previatti.
 ![Java](https://img.shields.io/badge/-java-blue?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-python-green?style=flat-square&logo=python&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-orange?style=flat-square&logo=Laravel&logoColor=white)
+
+#### Database
+
+![MySQL](https://img.shields.io/badge/-MySql-blue?style=flat-square&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/-MsSql-blue?style=flat-square&logoColor=white)
+![Oracle](https://img.shields.io/badge/-oracle-red?style=flat-square&logo=oracle&logoColor=white)
 
 #### Others
 
