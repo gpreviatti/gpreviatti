@@ -1,8 +1,10 @@
-# Personal information 👨
+### Hello world 👋
 
-Email: gpreviatt@gmail.com ✉️
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gpreviatti)](https://github.com/gpreviatti)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanni-b-previatti-32227011a)](https://www.linkedin.com/in/giovanni-b-previatti-32227011a)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gpreviatti@gmail.com)](mailto:gpreviatti@gmail.com)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/giovanni-b-previatti-32227011a)
+My name name is Giovanni Brunno Previatti.
 
 #### Techs
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
