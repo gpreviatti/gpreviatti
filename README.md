@@ -38,4 +38,4 @@ My name name is Giovanni Brunno Previatti.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=gpreviatti&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpreviatti&layout=compact)](https://github.com/gpreviatti/github-readme-stats&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpreviatti&layout=compact&theme=dark)](https://github.com/gpreviatti/github-readme-stats)
