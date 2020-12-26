@@ -36,6 +36,6 @@ My name name is Giovanni Brunno Previatti.
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=gpreviatti&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=gpreviatti&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpreviatti&layout=compact)](https://github.com/gpreviatti/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpreviatti&layout=compact)](https://github.com/gpreviatti/github-readme-stats&theme=dark)
