@@ -1,4 +1,7 @@
-#### Hello world 👋
+<!-- Cover -->
+<p align="center">
+	<img src="./assets/cover.gif" alt="cover" title="Giovanni B Previatti" style="border-radius: 15px; box-shadow: 10px 10px 10px 10px rgba(0,0,0, .5);">
+</p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gpreviatti)](https://github.com/gpreviatti)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanni-b-previatti-32227011a)](https://www.linkedin.com/in/giovanni-b-previatti-32227011a)
@@ -36,6 +39,17 @@ My name name is Giovanni Brunno Previatti.
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=gpreviatti&show_icons=true&theme=dark)
+<!-- Info repo -->
+![GitHub followers](https://img.shields.io/github/followers/gpreviatti?style=social)&nbsp;
+![GitHub User's stars](https://img.shields.io/github/stars/gpreviatti?style=social)&nbsp;
+[![Years Badge](https://badges.pufler.dev/years/gpreviatti)](https://badges.pufler.dev)&nbsp;
+[![Repos Badge](https://badges.pufler.dev/repos/gpreviatti)](https://badges.pufler.dev)&nbsp;
+[![Visits Badge](https://badges.pufler.dev/visits/gpreviatti/gpreviatti)](https://badges.pufler.dev)&nbsp;
+[![Created Badge](https://badges.pufler.dev/created/gpreviatti/gpreviatti)](https://badges.pufler.dev)&nbsp;
+![GitHub last commit](https://img.shields.io/github/last-commit/gpreviatti/gpreviatti)&nbsp;
+[![Updated Badge](https://badges.pufler.dev/updated/gpreviatti/gpreviatti)](https://badges.pufler.dev)&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpreviatti&layout=compact&theme=dark)](https://github.com/gpreviatti/github-readme-stats)
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gpreviatti&theme=chartreuse-dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpreviatti&layout=compact&theme=chartreuse-dark)](https://github.com/JefersonLucas/github-readme-stats)
