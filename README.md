@@ -43,12 +43,8 @@ My name name is Giovanni Brunno Previatti.
 <!-- Info repo -->
 ![GitHub followers](https://img.shields.io/github/followers/gpreviatti?style=social)&nbsp;
 ![GitHub User's stars](https://img.shields.io/github/stars/gpreviatti?style=social)&nbsp;
-[![Years Badge](https://badges.pufler.dev/years/gpreviatti)](https://badges.pufler.dev)&nbsp;
 [![Repos Badge](https://badges.pufler.dev/repos/gpreviatti)](https://badges.pufler.dev)&nbsp;
 [![Visits Badge](https://badges.pufler.dev/visits/gpreviatti/gpreviatti)](https://badges.pufler.dev)&nbsp;
-[![Created Badge](https://badges.pufler.dev/created/gpreviatti/gpreviatti)](https://badges.pufler.dev)&nbsp;
-![GitHub last commit](https://img.shields.io/github/last-commit/gpreviatti/gpreviatti)&nbsp;
-[![Updated Badge](https://badges.pufler.dev/updated/gpreviatti/gpreviatti)](https://badges.pufler.dev)&nbsp;
 
 <!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gpreviatti&theme=chartreuse-dark&show_icons=true)
