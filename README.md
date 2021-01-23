@@ -7,8 +7,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanni-b-previatti-32227011a)](https://www.linkedin.com/in/giovanni-b-previatti-32227011a)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gpreviatti@gmail.com)](mailto:gpreviatti@gmail.com)
 
-My name name is Giovanni Brunno Previatti.
-
 ### Techs
 
 #### FrontEnd
