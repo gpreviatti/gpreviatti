@@ -7,6 +7,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanni-b-previatti-32227011a)](https://www.linkedin.com/in/giovanni-b-previatti-32227011a)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gpreviatti@gmail.com)](mailto:gpreviatti@gmail.com)
 
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gpreviatti&theme=chartreuse-dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpreviatti&layout=compact&theme=chartreuse-dark)](https://github.com/JefersonLucas/github-readme-stats)
+
 ### Techs
 
 #### FrontEnd
@@ -43,8 +48,3 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/gpreviatti?style=social)&nbsp;
 [![Repos Badge](https://badges.pufler.dev/repos/gpreviatti)](https://badges.pufler.dev)&nbsp;
 [![Visits Badge](https://badges.pufler.dev/visits/gpreviatti/gpreviatti)](https://badges.pufler.dev)&nbsp;
-
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gpreviatti&theme=chartreuse-dark&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpreviatti&layout=compact&theme=chartreuse-dark)](https://github.com/JefersonLucas/github-readme-stats)
