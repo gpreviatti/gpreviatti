@@ -22,7 +22,7 @@
 #### Database
 
 ![MySQL](https://img.shields.io/badge/-MySql-blue?style=flat-square&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/-MsSql-blue?style=flat-square&logoColor=white)
+![MSSQL](https://img.shields.io/badge/-MsSql-blue?style=flat-square&logo=sqlColor=white)
 ![Oracle](https://img.shields.io/badge/-oracle-red?style=flat-square&logo=oracle&logoColor=white)
 
 #### Others
