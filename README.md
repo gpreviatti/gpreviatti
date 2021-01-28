@@ -1,8 +1,3 @@
-<!-- Cover -->
-<p align="center">
-	<img src="./assets/cover.gif" alt="cover" title="Giovanni B Previatti" style="border-radius: 15px; box-shadow: 10px 10px 10px 10px rgba(0,0,0, .5);">
-</p>
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gpreviatti)](https://github.com/gpreviatti)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanni-b-previatti-32227011a)](https://www.linkedin.com/in/giovanni-b-previatti-32227011a)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gpreviatti@gmail.com)](mailto:gpreviatti@gmail.com)
@@ -45,7 +40,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/gpreviatti/gpreviatti)](https://badges.pufler.dev)&nbsp;
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gpreviatti&theme=chartreuse-dark&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gpreviatti&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpreviatti&layout=compact&theme=chartreuse-dark)](https://github.com/JefersonLucas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpreviatti)](https://github.com/JefersonLucas/github-readme-stats)
 
