@@ -40,7 +40,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/gpreviatti/gpreviatti)](https://badges.pufler.dev)&nbsp;
 
 <!-- GitHub Stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpreviatti&theme=dark&)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpreviatti)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gpreviatti&show_icons=true&theme=dark&)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gpreviatti&show_icons=true)
 
