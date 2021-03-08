@@ -22,7 +22,7 @@
 ![MSSQL](https://img.shields.io/badge/-MsSql-blue?style=flat-square&logo=microsoft&Color=white)
 ![Oracle](https://img.shields.io/badge/-oracle-red?style=flat-square&logo=oracle&logoColor=white)
 
-#### Others
+#### Other skills and technologies
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=microsoft&logoColor=white)
