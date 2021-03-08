@@ -1,8 +1,5 @@
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gpreviatti)](https://github.com/gpreviatti)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanni-b-previatti-32227011a)](https://www.linkedin.com/in/giovanni-b-previatti-32227011a)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gpreviatti@gmail.com)](mailto:gpreviatti@gmail.com)
-
-### Techs
 
 #### FrontEnd
 
