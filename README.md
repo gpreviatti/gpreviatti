@@ -19,13 +19,13 @@
 #### Database
 
 ![MySQL](https://img.shields.io/badge/-MySql-blue?style=flat-square&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/-MsSql-blue?style=flat-square&logo=sqlColor=white)
+![MSSQL](https://img.shields.io/badge/-MsSql-blue?style=flat-square&logo=microsoft&Color=white)
 ![Oracle](https://img.shields.io/badge/-oracle-red?style=flat-square&logo=oracle&logoColor=white)
 
 #### Others
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=microsoft&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
 
