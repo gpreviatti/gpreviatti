@@ -29,5 +29,3 @@
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gpreviatti&show_icons=true&theme=dark)
-
